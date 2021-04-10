@@ -1,6 +1,6 @@
 # Meu primeiro teste automatizado com cypress
  Primeiro iremos **conhecer a aplicação** que vamos validar hoje.
- ![Home]{https://cdn.discordapp.com/attachments/806509611984879666/830528541338501140/unknown.png}
+ ![Home]{C:\Users\davis\Desktop\home.png}
  O [Dev finances(https://dev-finance.netlify.app/)] é uma apliacação web para controle financeiro, nele podemos listar algumas funcionalidades como:
  *Registrar uma nova transação.
  *Apagar uma transação.
