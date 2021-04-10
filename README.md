@@ -3,7 +3,7 @@
  
  ![home](https://user-images.githubusercontent.com/53572219/114283386-769f2a80-9a17-11eb-9969-20c2889d9b48.png)
  
- O [Dev finances](https://dev-finance.netlify.app/) é uma apliacação web para controle financeiro, nele podemos listar algumas funcionalidades como:
+ O [Dev finances](https://dev-finance.netlify.app/) é uma aplicação web para controle financeiro, nele podemos listar algumas funcionalidades como:
  * Registrar uma nova transação.
  * Apagar uma transação.
  * Visualizar o "Extrato" das nossas transações.
