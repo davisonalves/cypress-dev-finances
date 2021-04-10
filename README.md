@@ -1,5 +1,6 @@
 # Meu primeiro teste automatizado com cypress
  Primeiro iremos **conhecer a aplicação** que vamos validar hoje.
+ 
  ![home](https://user-images.githubusercontent.com/53572219/114283386-769f2a80-9a17-11eb-9969-20c2889d9b48.png)
  
  O [Dev finances(https://dev-finance.netlify.app/)] é uma apliacação web para controle financeiro, nele podemos listar algumas funcionalidades como:
@@ -7,7 +8,8 @@
  *Apagar uma transação.
  *Visualizar o "Extrato" das nossas transações.
  *Visualizar o nosso "Saldo" em total.
- ![transação](https://user-images.githubusercontent.com/53572219/114283399-8caceb00-9a17-11eb-9160-8f7b3e127039.png)
+ 
+![transação](https://user-images.githubusercontent.com/53572219/114283399-8caceb00-9a17-11eb-9160-8f7b3e127039.png)
 
 ![extrato](https://user-images.githubusercontent.com/53572219/114283416-a1897e80-9a17-11eb-8caf-61fbe2b51c30.png)
 
